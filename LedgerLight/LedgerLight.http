@@ -1,0 +1,6 @@
+@LedgerLight_HostAddress = http://localhost:5208
+
+GET {{LedgerLight_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

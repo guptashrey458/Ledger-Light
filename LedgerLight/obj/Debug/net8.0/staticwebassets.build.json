@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kqkHvScLQpMoBcDyul4dvgFGUWhhlBVxJP8R4h5rIVw=",
+  "Source": "LedgerLight",
+  "BasePath": "_content/LedgerLight",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
