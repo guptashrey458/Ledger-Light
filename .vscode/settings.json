@@ -1,0 +1,16 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "PG Local",
+            "database": "Ledger_Light",
+            "username": "postgres",
+            "password": "Shrey",
+            "connectionTimeout": 30
+        }
+    ],
+    "dotnet.defaultSolution": "LedgerLight/LedgerLight.sln"
+}

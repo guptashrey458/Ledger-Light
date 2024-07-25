@@ -1,0 +1,14 @@
+Entities to be present in the db
+
+1.Company-->id,peronal info
+2.companyClients--
+3.CompanyServices
+4.CompanyClientServiceMapping
+5.Invoices(DueDate,Date Service Provided)
+6.InvoiceDetails
+7.AccountingTable
+
+--The base should be that previously we were doing manual entries for every debit credit that was happening but now what 
+we need is that companies are handalling multiple clients 
+So, at the end the company manager should go and click  so that after a month the company could send the invoices to all their clients
+
